@@ -4,7 +4,7 @@
 - [Решение](https://kodaktor.ru/task_func_fce09)
 # лабораторная func_2
 - [Задание](https://kodaktor.ru/func_002)
-- [Решение]()
+- [Решение](https://kodaktor.ru/func_5da6f)
 # лабораторная func_3
 - [Задание](https://kodaktor.ru/func_003)
 - [Решение]()
