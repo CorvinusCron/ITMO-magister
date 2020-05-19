@@ -13,7 +13,7 @@
 - [Решение]()
 # лабораторная func_5
 - [Задание](https://kodaktor.ru/func_005)
-- [Решение]()
+- [Решение](https://kodaktor.ru/func_0fed6)
 # лабораторная func_6
 - [Задание](https://kodaktor.ru/func_006)
 - [Решение]()
