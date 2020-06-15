@@ -22,8 +22,9 @@
 - [Решение](https://kodaktor.ru/func_4f022)
 # лабораторная func_8
 - [Задание](https://kodaktor.ru/func_008)
-- [Решение](https://kodaktor.ru/func_5d11c)
+- [Решение]()
+- [Править](https://kodaktor.ru/func_5d11c)
 # лабораторная func_9
 - [Задание](https://kodaktor.ru/func_009)
 - [Решение](https://kodaktor.ru/func_83d45)
-- [Ghfdbnm](https://kodaktor.ru/func_83d45)
+
