@@ -26,3 +26,4 @@
 # лабораторная func_9
 - [Задание](https://kodaktor.ru/func_009)
 - [Решение](https://kodaktor.ru/func_83d45)
+- [Ghfdbnm](https://kodaktor.ru/func_83d45)
