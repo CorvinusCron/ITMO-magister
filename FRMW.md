@@ -7,10 +7,10 @@
 # frmw_003 (список дел)
 - [Задание](https://kodaktor.ru/frmw_003)
 - [Ответ](https://kodaktor.ru/react_todo_cd4de)
-# frmw_004 
+# frmw_004 (степени)
 - [Задание](https://kodaktor.ru/frmw_004)
 - [Ответ](https://kodaktor.ru/frmw_dfb5c)
-# frmw_005
+# frmw_005 (микшер цвета)
 - [Задание](https://kodaktor.ru/frmw_005)
 - [Ответ](https://kodaktor.ru/frmw_60094)
 # frmw_006 (введение в ELM)
