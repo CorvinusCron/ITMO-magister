@@ -16,8 +16,7 @@
 - [Решение](https://kodaktor.ru/func_3f0f9)
 # лабораторная func_6
 - [Задание](https://kodaktor.ru/func_006)
-- [Решение]()
-- [Правка](https://kodaktor.ru/func_02b29)
+- [Решение](https://kodaktor.ru/func_fd15d)
 # лабораторная func_7
 - [Задание](https://kodaktor.ru/func_007)
 - [Решение](https://kodaktor.ru/func_1564a)
