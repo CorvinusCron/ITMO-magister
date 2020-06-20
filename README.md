@@ -26,6 +26,3 @@
 # func_09 (замыкание)
 - [Задание](https://kodaktor.ru/func_009)
 - [Ответ](https://kodaktor.ru/func_12c7d)
-# func_010 (безымянная рекурсия)
-- [Задание](https://kodaktor.ru/func_010)
-- [Ответ]()
