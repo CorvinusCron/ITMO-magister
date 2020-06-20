@@ -7,7 +7,7 @@
 - [Ответ](https://kodaktor.ru/func_4038a)
 # func_003 (импорт и bind)
 - [Задание](https://kodaktor.ru/func_003)
-- [Ответ](https://kodaktor.ru/func_6c1b1)
+- [Ответ](https://kodaktor.ru/func_1732c)
 # func_004 (func_task, compose)
 - [Задание](https://kodaktor.ru/func_004)
 - [Ответ](https://www.kodaktor.ru/func_3276e)
