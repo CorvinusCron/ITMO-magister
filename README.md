@@ -13,7 +13,7 @@
 - [Ответ](https://www.kodaktor.ru/func_3276e)
 # func_005 (каррирование)
 - [Задание](https://kodaktor.ru/func_005)
-- [Ответ](https://kodaktor.ru/func_3f0f9)
+- [Ответ](https://kodaktor.ru/func_2be6b)
 # func_006 (транспиляция)
 - [Задание](https://kodaktor.ru/func_006)
 - [Ответ](https://kodaktor.ru/func_fd15d)
