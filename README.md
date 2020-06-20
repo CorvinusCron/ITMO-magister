@@ -4,3 +4,4 @@
 - [Babl](https://github.com/Lazarenko-Alexandr/ITMO-magister/blob/master/Babl.md)
 - [Проект YOU](https://github.com/Lazarenko-Alexandr/YouTube)
 - [Async_task](https://github.com/Lazarenko-Alexandr/ITMO-magister/blob/master/async.md)
+- [FRMW_00*](https://github.com/Lazarenko-Alexandr/ITMO-magister/blob/master/FRMW.md)
