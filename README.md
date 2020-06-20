@@ -1,5 +1,5 @@
 # Лабораторные работы:
-# Функции (https://github.com/Lazarenko-Alexandr/ITMO-magister/blob/master/Functions.md)
+# [Функции] (https://github.com/Lazarenko-Alexandr/ITMO-magister/blob/master/Functions.md)
 
 # func_001 (goss_concat)
 - [Задание](https://kodaktor.ru/func_001)
