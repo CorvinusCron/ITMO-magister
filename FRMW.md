@@ -9,7 +9,7 @@
 - [Ответ](https://kodaktor.ru/react_todo_4b0d4)
 # frmw_004 
 - [Задание](https://kodaktor.ru/frmw_004)
-- [Ответ]()
+- [Ответ](https://kodaktor.ru/frmw_dfb5c)
 # frmw_005
 - [Задание](https://kodaktor.ru/frmw_005)
 - [Ответ]()
