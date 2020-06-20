@@ -19,7 +19,7 @@
 - [Ответ](https://kodaktor.ru/func_fd15d)
 # func_007 (рекурсия)
 - [Задание](https://kodaktor.ru/func_007)
-- [Ответ](https://kodaktor.ru/func_1564a)
+- [Ответ](https://kodaktor.ru/func_41830)
 # func_008 (массив тел, конструктор, spread)
 - [Задание](https://kodaktor.ru/func_008)
 - [Ответ](https://kodaktor.ru/func_72207)
