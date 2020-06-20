@@ -25,5 +25,5 @@
 - [Решение](https://kodaktor.ru/func_72207)
 # лабораторная func_9
 - [Задание](https://kodaktor.ru/func_009)
-- [Решение](https://kodaktor.ru/func_83d45)
+- [Решение](https://kodaktor.ru/func_a5c9c)
 
