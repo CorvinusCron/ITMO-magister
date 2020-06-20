@@ -1,7 +1,7 @@
 # Лабораторные работы:
 # лабораторная func_1
 - [Задание](https://kodaktor.ru/func_001)
-- [Решение](https://kodaktor.ru/task_func_fce09)
+- [Решение](https://kodaktor.ru/task_func_3b220)
 # лабораторная func_2
 - [Задание](https://kodaktor.ru/func_002)
 - [Решение](https://kodaktor.ru/func_8d4c8)
