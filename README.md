@@ -16,7 +16,7 @@
 - [Ответ](https://kodaktor.ru/func_99968)
 # func_006 (транспиляция)
 - [Задание](https://kodaktor.ru/func_006)
-- [Ответ](https://kodaktor.ru/func_fd15d)
+- [Ответ](https://kodaktor.ru/func_67d4d)
 # func_007 (рекурсия)
 - [Задание](https://kodaktor.ru/func_007)
 - [Ответ](https://kodaktor.ru/func_41830)
