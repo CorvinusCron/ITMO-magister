@@ -12,7 +12,7 @@
 - [Ответ](https://kodaktor.ru/frmw_dfb5c)
 # frmw_005
 - [Задание](https://kodaktor.ru/frmw_005)
-- [Ответ]()
+- [Ответ](https://kodaktor.ru/frmw_60094)
 # frmw_006 (введение в ELM)
 - [Задание](https://kodaktor.ru/frmw_006)
 - [Ответ]()
