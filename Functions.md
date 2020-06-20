@@ -22,6 +22,6 @@
 # func_008 (массив тел, конструктор, spread)
 - [Задание](https://kodaktor.ru/func_008)
 - [Ответ](https://kodaktor.ru/func_454d9)
-# func_09 (замыкание)
+# func_009 (замыкание)
 - [Задание](https://kodaktor.ru/func_009)
 - [Ответ](https://kodaktor.ru/func_12c7d)
