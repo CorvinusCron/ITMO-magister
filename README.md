@@ -10,7 +10,7 @@
 - [Ответ](https://kodaktor.ru/func_6c1b1)
 # func_004 (func_task, compose)
 - [Задание](https://kodaktor.ru/func_004)
-- [Ответ](https://www.kodaktor.ru/func_66e14)
+- [Ответ](https://www.kodaktor.ru/func_3276e)
 # func_005 (каррирование)
 - [Задание](https://kodaktor.ru/func_005)
 - [Ответ](https://kodaktor.ru/func_3f0f9)
