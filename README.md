@@ -22,7 +22,7 @@
 - [Решение](https://kodaktor.ru/func_4f022)
 # лабораторная func_8
 - [Задание](https://kodaktor.ru/func_008)
-- [Решение](https://kodaktor.ru/func_d71d5)
+- [Решение](https://kodaktor.ru/func_72207)
 # лабораторная func_9
 - [Задание](https://kodaktor.ru/func_009)
 - [Решение](https://kodaktor.ru/func_83d45)
