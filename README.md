@@ -4,7 +4,7 @@
 - [Ответ](https://kodaktor.ru/task_func_3b220)
 # func_002 (this)
 - [Задание](https://kodaktor.ru/func_002)
-- [Ответ](https://kodaktor.ru/func_77ca5)
+- [Ответ](https://kodaktor.ru/func_4038a)
 # func_003 (импорт и bind)
 - [Задание](https://kodaktor.ru/func_003)
 - [Ответ](https://kodaktor.ru/func_6c1b1)
