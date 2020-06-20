@@ -3,4 +3,4 @@
 - [Ответ](https://kodaktor.ru/custom_7f20f)
 # Кастомные компоненты
 - [Задание](https://kodaktor.ru/evnt_003)
-- [Ответ]()
+- [Ответ](https://kodaktor.ru/d8ba231_af34b)
