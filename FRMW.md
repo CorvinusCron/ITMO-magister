@@ -1,9 +1,9 @@
 # frmw_001 (введение и двустороннее связывание на React)
 - [Задание](https://kodaktor.ru/frmw_001)
-- [Ответ](https://kodaktor.ru/frmw_2ead2)
+- [Ответ]()
 # frmw_002 (введение во Vue)
 - [Задание](https://kodaktor.ru/frmw_002)
-- [Ответ]()
+- [Ответ](https://kodaktor.ru/frmw_2ead2)
 # frmw_003
 - [Задание](https://kodaktor.ru/frmw_003)
 - [Ответ](https://kodaktor.ru/react_todo_4b0d4)
