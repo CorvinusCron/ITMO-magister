@@ -1,6 +1,6 @@
 # func_001 (goss_concat)
 - [Задание](https://kodaktor.ru/func_001)
-- [Ответ](https://kodaktor.ru/task_func_74837)
+- [Ответ](https://kodaktor.ru/task_func_6f2e2)
 # func_002 (this)
 - [Задание](https://kodaktor.ru/func_002)
 - [Ответ](https://kodaktor.ru/func_4038a)
