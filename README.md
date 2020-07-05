@@ -1,4 +1,4 @@
-Магистратура ИТМО - Веб-технологии
+# Магистратура ИТМО - Веб-технологии
 # Лабораторные работы:
 - [FUNC_00*](https://github.com/Lazarenko-Alexandr/ITMO-magister/blob/master/Functions.md)
 - [ASYNC-TASKS](https://github.com/Lazarenko-Alexandr/ITMO-magister/blob/master/async.md)
